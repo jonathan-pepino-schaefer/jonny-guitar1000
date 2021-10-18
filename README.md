@@ -1,5 +1,5 @@
 ### Hi, I'm Jonathan Schäfer. 
-Currently I'm studying computer science at the university of Stuttgart in Germany. 
+Currently I'm studying computer science at the University of Stuttgart in Germany. 
 
 I enjoy thinking and reasoning, working and tinkering with my linux machine and writing good styled code.
 
